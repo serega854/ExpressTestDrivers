@@ -9,4 +9,4 @@
 Пользователь может дать ответ на вопрос тестирования
 Пользователь может загрузить свои результаты и фото подтверждения некоторых результатов
 Структура данных
-![Image alt]([https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/serega854/ExpressTestDrivers/blob/main/картинки%20для%20гитхаба/1bd.PNG))
+![Image alt](https://github.com/serega854/ExpressTestDrivers/blob/main/картинки%20для%20гитхаба/1bd.PNG)
